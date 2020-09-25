@@ -1,0 +1,8 @@
+1. Address: 14151 INDIO DR
+	Cost: $2000.0
+2. Address: 5201 BLOSSOM RANCH DR
+	Cost: $450000.0
+3. Address: 3027 PALMATE WAY
+	Cost: $452000.0
+4. Address: 9760 LAZULITE CT
+	Cost: $460000.0

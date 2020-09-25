@@ -1,0 +1,22 @@
+Batman
+Test 1: 100.3
+Test 2: 94.2
+Test 3: 99.2
+Test 4: DNT
+Test 5: DNT
+
+Wonder Woman
+Test 1: 99.8
+Test 2: 97.3
+Test 3: 98.99
+Test 4: 100.0
+Test 5: 93.2
+
+Superman
+Test 1: 94.3
+Test 2: DNT
+Test 3: DNT
+Test 4: 91.2
+Test 5: DNT
+Test 6: 94.3
+Test 7: 95.8

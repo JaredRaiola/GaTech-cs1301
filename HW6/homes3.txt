@@ -1,0 +1,8 @@
+1. Address: 14151 INDIO DR
+	Cost: $2000.0
+2. Address: 2912 NORCADE CIR
+	Cost: $282400.0
+3. Address: 4359 CREGAN CT
+	Cost: $320000.0
+4. Address: 5912 DEEPDALE WAY
+	Cost: $320000.0

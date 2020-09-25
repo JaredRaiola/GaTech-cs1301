@@ -1,0 +1,30 @@
+1. Address: 14151 INDIO DR
+	Cost: $2000.0
+2. Address: 8208 WOODYARD WAY
+	Cost: $30000.0
+3. Address: 7401 TOULON LN
+	Cost: $56950.0
+4. Address: 51 OMAHA CT
+	Cost: $68212.0
+5. Address: 83 ARCADE BLVD
+	Cost: $80000.0
+6. Address: 3845 ELM ST
+	Cost: $84000.0
+7. Address: 483 ARCADE BLVD
+	Cost: $89000.0
+8. Address: 5828 PEPPERMILL CT
+	Cost: $89921.0
+9. Address: 671 SONOMA AVE
+	Cost: $90000.0
+10. Address: 6048 OGDEN NASH WAY
+	Cost: $90895.0
+11. Address: 2561 19TH AVE
+	Cost: $91002.0
+12. Address: 4113 DAYSTAR CT
+	Cost: $93600.0
+13. Address: 1069 ACACIA AVE
+	Cost: $98000.0
+14. Address: 7325 10TH ST
+	Cost: $98937.0
+15. Address: 3847 LAS PASAS WAY
+	Cost: $99000.0

@@ -1,0 +1,23 @@
+Iron Man
+Test 1: 100.0
+Test 2: 97.5
+Test 3: 88.2
+Test 4: DNT
+Test 5: 99.3
+Test 6: 92.2
+
+Hulk
+Test 1: 89.0
+Test 2: 89.1
+Test 3: 100.2
+Test 4: 95.4
+Test 5: 98.0
+
+Captain America
+Test 1: 96.1
+Test 2: 95.2
+Test 3: 97.1
+Test 4: 97.2
+Test 5: DNT
+Test 6: 93.3
+Test 7: 95.4
